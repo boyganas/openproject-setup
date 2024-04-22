@@ -4,4 +4,3 @@ OpenProject Setup
 -  Postgres 13
 
 Follow instruction given
-admin/admin
