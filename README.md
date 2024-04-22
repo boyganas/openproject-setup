@@ -3,4 +3,6 @@ OpenProject Setup
 -  Apache2
 -  Postgres 13
 
+sudo apt install git -y
+
 Follow instruction given
