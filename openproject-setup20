@@ -6,7 +6,7 @@ echo -e "\e[35mPlease run on UBUNTU 20.04 LTS.\e[0m"
 echo
 echo
 echo "Current version"
-cat /etc/os-release | grep "VERSION="
+cat /etc/os-release | grep VERSION=
 echo
 echo
 read -p "Press [Enter] key to start installation ..."
