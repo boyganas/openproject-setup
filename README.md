@@ -9,7 +9,7 @@ OpenProject Setup
 - git clone https://github.com/boyganas/openproject-setup.git
 - cd openproject-setup
 - mv * /home/g33j3t
-- bash openproject-setup1
+- bash openproject-setup20
 
 Follow instruction given
 
